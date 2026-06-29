@@ -40,17 +40,6 @@ I believe that consistent learning and building real-world projects are the fast
 
 ---
 
-## 🚀 Professional Summary
-
-- 🎓 Computer Science Engineering Graduate
-- 💻 Full Stack Development Enthusiast
-- ☁ Azure Cloud Learner
-- 🤖 AI & Machine Learning Enthusiast
-- 📚 Data Structures & Algorithms Learner
-- 🌱 Passionate about scalable software architecture
-- ⚡ Always exploring emerging technologies
-- 🎯 Goal: Build enterprise-grade software solutions
-
 ---
 
 
@@ -76,57 +65,6 @@ I am continuously expanding my expertise in:
 
 ---
 
-# 🌟 Current Focus
-
-✔ Mastering JavaScript
-
-✔ Learning React.js
-
-✔ Backend Development with Node.js
-
-✔ MongoDB
-
-✔ Express.js
-
-✔ Java
-
-✔ SQL
-
-✔ Data Structures & Algorithms
-
-✔ Azure Fundamentals (AZ-900)
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Large Language Models (LLMs)
-
-✔ Retrieval-Augmented Generation (RAG)
-
-✔ LangChain
-
-✔ Vector Databases
-
-✔ Software Architecture
-
-✔ System Design
-
----
-
-# 💡 What Drives Me
-
-- Building meaningful software
-- Learning emerging technologies
-- Writing clean and maintainable code
-- Understanding how systems work internally
-- Continuous improvement
-- Solving algorithmic challenges
-- Creating impactful applications
-
----
 
 <div align="center">
 
@@ -258,82 +196,7 @@ I am continuously expanding my expertise in:
 
 </p>
 
----
 
-# 🚀 Core Competencies
-
-| Domain | Skills |
-|----------|--------|
-| 💻 Programming | Java, JavaScript, Python, C, C++ |
-| 🌐 Frontend | HTML5, CSS3, React, Bootstrap, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js, REST APIs |
-| 🗄 Database | MongoDB, MySQL, SQLite |
-| ☁ Cloud | Microsoft Azure Fundamentals |
-| 🔄 Version Control | Git, GitHub |
-| 🛠 Tools | VS Code, IntelliJ IDEA, Eclipse, Postman |
-| 📊 CS Fundamentals | DSA, DBMS, OS, OOP, Computer Networks |
-| 🤖 AI | Machine Learning, Deep Learning, LLMs, RAG, LangChain *(currently learning)* |
-
----
-
-# 📖 Currently Learning
-
-```text
-█████████████████████████████  Java
-
-████████████████████████████  JavaScript
-
-██████████████████████████░░  React
-
-████████████████████████░░░░  Node.js
-
-███████████████████████░░░░░  Express.js
-
-██████████████████████░░░░░░  MongoDB
-
-█████████████████████░░░░░░░  SQL
-
-████████████████████░░░░░░░░  Data Structures
-
-███████████████████░░░░░░░░░  Azure
-
-██████████████████░░░░░░░░░░  AI / ML
-
-█████████████████░░░░░░░░░░░  System Design
-
-████████████████░░░░░░░░░░░░  LangChain
-
-███████████████░░░░░░░░░░░░░  RAG
-
-██████████████░░░░░░░░░░░░░░  Vector Databases
-```
-
----
-
-# 🎯 Engineering Interests
-
-- Enterprise Application Development
-- Backend Engineering
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Cloud Computing
-- Distributed Systems
-- Microservices Architecture
-- RESTful API Development
-- Software Architecture
-- System Design
-- DevOps Fundamentals
-- Open Source Contributions
-- Database Design
-- Performance Optimization
-- Scalable Software Systems
-- Clean Code Practices
-- Design Patterns
-- Problem Solving
-
----
 
 <div align="center">
 
@@ -357,25 +220,7 @@ I am continuously expanding my expertise in:
 
 ---
 
-<div align="center">
 
-### 📈 Most Used Languages
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddypranith80-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=reddypranith80-max&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -397,6 +242,30 @@ I am continuously expanding my expertise in:
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github-contribution-grid-snake.svg">
+
+<img
+alt="github contribution snake"
+src="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
+
 # ⚡ GitHub Summary Cards
 
 <div align="center">
@@ -413,34 +282,7 @@ I am continuously expanding my expertise in:
 
 ---
 
-# 📅 Coding Activity
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reddypranith80-max&theme=tokyonight"/>
-
-</div>
-
----
-
-# 💡 Developer Metrics
-
-<div align="center">
-
-| Metric | Status |
-|--------|--------|
-| 💻 Primary Language | Java |
-| 🌐 Secondary Language | JavaScript |
-| ☁ Cloud Platform | Microsoft Azure |
-| 📚 Current Learning | MERN + AI/ML |
-| 🎯 Focus Area | Full Stack Development |
-| 🧠 Problem Solving | Data Structures & Algorithms |
-| 🤖 AI Interest | LLMs, RAG, LangChain |
-| 🏗 Long-Term Goal | Enterprise Software Engineering |
-
-</div>
-
----
 
 # 📌 Pinned Repository Categories
 
@@ -494,310 +336,7 @@ I am continuously expanding my expertise in:
 
 ---
 
-## 🌟 Featured Portfolio
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Full Stack E-Commerce Platform
-
-Enterprise-grade shopping platform built using the MERN stack.
-
-**Tech Stack**
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-- Razorpay / Stripe
-- Redux Toolkit
-
-**Features**
-
-- Authentication
-- Admin Dashboard
-- Product Management
-- Cart
-- Payments
-- Order Tracking
-- Reviews
-- Responsive UI
-
-**Status**
-
-🟡 Planned
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Chat Assistant
-
-An intelligent chatbot powered by Large Language Models.
-
-**Tech Stack**
-
-- Python
-- LangChain
-- OpenAI API
-- Vector Database
-- FastAPI
-- React
-
-**Features**
-
-- RAG
-- Memory
-- Chat History
-- PDF Question Answering
-- Semantic Search
-
-**Status**
-
-🟡 Planned
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 📊 Employee Management System
-
-Complete CRUD enterprise application.
-
-**Tech**
-
-- React
-- Express
-- MongoDB
-
-**Modules**
-
-- Authentication
-- Employee Records
-- Payroll
-- Attendance
-- Reports
-
-Status
-
-🟡 Planned
-
-</td>
-
-<td>
-
-### ☁ Azure Cloud Deployment
-
-Deploy scalable cloud applications using Microsoft Azure.
-
-**Topics**
-
-- Azure App Services
-- Azure Storage
-- Azure SQL
-- Azure Functions
-- Azure DevOps
-
-Status
-
-🟡 Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 Project Roadmap
-
-## ✅ Phase 1
-
-- Personal Portfolio Website
-- Weather App
-- To-do App
-- Calculator
-- Notes App
-- Expense Tracker
-
----
-
-## ✅ Phase 2
-
-- Authentication System
-- Blog Application
-- URL Shortener
-- Chat Application
-- Movie Recommendation App
-
----
-
-## ✅ Phase 3
-
-- Full Stack E-Commerce
-- Hospital Management
-- Banking System
-- Learning Management System
-- HR Portal
-
----
-
-## ✅ Phase 4
-
-Artificial Intelligence Projects
-
-- ChatGPT Clone
-- AI Resume Analyzer
-- PDF Chatbot
-- AI Code Reviewer
-- AI Interview Assistant
-- Voice Assistant
-- Image Generator
-
----
-
-## ✅ Phase 5
-
-Enterprise Applications
-
-- CRM
-- ERP
-- Inventory Management
-- Ticketing System
-- Cloud File Storage
-- Video Conferencing Platform
-
----
-
-# 🤖 Artificial Intelligence Portfolio
-
-Currently exploring
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- CNN
-- RNN
-- LSTM
-- Transformers
-- LLMs
-- LangChain
-- Vector Databases
-- Retrieval Augmented Generation
-- Prompt Engineering
-- AI Agents
-- Computer Vision
-- NLP
-
----
-
-# 🌐 Full Stack Development Journey
-
-Frontend
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ React
-
-✔ Tailwind CSS
-
-✔ Bootstrap
-
-Backend
-
-✔ Node.js
-
-✔ Express.js
-
-✔ REST APIs
-
-✔ Authentication
-
-Database
-
-✔ MongoDB
-
-✔ SQL
-
-Deployment
-
-✔ GitHub
-
-✔ Azure
-
----
-
-# 📜 Certifications
-
-## Completed
-
-- 🎓 Computer Science Engineering
-
----
-
-## Currently Preparing
-
-- Microsoft Azure AZ-900
-- Data Structures & Algorithms
-- MERN Stack
-- Artificial Intelligence
-- Machine Learning
-
----
-
-## Future Certifications
-
-- Azure Developer Associate
-- Azure AI Engineer Associate
-- AWS Cloud Practitioner
-- AWS Developer Associate
-- Oracle Java Certification
-- MongoDB Associate Developer
-
----
-
-# 🏆 Areas of Interest
-
-- Software Engineering
-
-- Backend Engineering
-
-- Full Stack Development
-
-- Artificial Intelligence
-
-- Machine Learning
-
-- Deep Learning
-
-- Cloud Computing
-
-- Distributed Systems
-
-- System Design
-
-- Database Engineering
-
-- DevOps
-
-- API Development
-
-- Microservices
-
----
 
 # 🎯 Long-Term Vision
 
@@ -821,184 +360,6 @@ I aim to contribute to impactful software products, continuously expand my techn
 
 ---
 
-# 🎯 2026 Goals
-
-### 📚 Learning Goals
-
-- ✅ Master Java Programming
-- ✅ Become proficient in Modern JavaScript
-- ✅ Build production-ready React applications
-- ✅ Develop scalable REST APIs with Node.js & Express.js
-- ✅ Gain confidence with MongoDB & SQL
-- ✅ Strengthen Data Structures & Algorithms
-- ✅ Learn System Design fundamentals
-- ✅ Pass Microsoft Azure AZ-900 Certification
-- ✅ Build AI-powered applications using LLMs
-- ✅ Contribute to Open Source
-
----
-
-
-# 🧠 Computer Science Knowledge Areas
-
-| Domain | Current Focus |
-|---------|---------------|
-| Programming | Java, JavaScript |
-| Object-Oriented Programming | Learning & Practice |
-| Data Structures | Active Learning |
-| Algorithms | Problem Solving |
-| Database Management | SQL & MongoDB |
-| Operating Systems | Fundamentals |
-| Computer Networks | Fundamentals |
-| Software Engineering | Clean Code & Best Practices |
-| System Design | Learning |
-| Cloud Computing | Azure Fundamentals |
-| Artificial Intelligence | Learning |
-| Machine Learning | Learning |
-| Deep Learning | Exploring |
-| Distributed Systems | Future Goal |
-
----
-
-
-# 💡 Engineering Principles
-
-I strive to write software that is:
-
-- ✔ Readable
-- ✔ Maintainable
-- ✔ Modular
-- ✔ Scalable
-- ✔ Reusable
-- ✔ Efficient
-- ✔ Well-tested
-- ✔ User-focused
-
----
-
-# 📚 Topics I'm Exploring
-
-### Software Engineering
-
-- Object-Oriented Programming
-- Design Patterns
-- SOLID Principles
-- Clean Code
-- Software Architecture
-- Microservices
-- API Design
-
----
-
-### Backend Engineering
-
-- Authentication & Authorization
-- REST APIs
-- JWT
-- Session Management
-- Caching
-- API Security
-- Performance Optimization
-
----
-
-### Cloud Computing
-
-- Azure Fundamentals
-- Virtual Machines
-- Azure Storage
-- Azure App Service
-- Azure Functions
-- Azure SQL
-- Azure Networking
-
----
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- CNN
-- RNN
-- LSTM
-- Transformers
-- LLMs
-- Prompt Engineering
-- LangChain
-- RAG
-- Vector Databases
-- AI Agents
-
----
-
-# 📅 Daily Developer Routine
-
-```text
-☀️ Learn a new concept
-
-↓
-
-💻 Write code
-
-↓
-
-🧩 Solve DSA problems
-
-↓
-
-📖 Read documentation
-
-↓
-
-🚀 Build projects
-
-↓
-
-🔍 Refactor & Improve
-
-↓
-
-🌙 Repeat consistently
-```
-
----
-
-# 🌍 Open Source Goals
-
-- Contribute to beginner-friendly repositories
-- Improve documentation
-- Fix bugs
-- Build reusable components
-- Learn collaborative development workflows
-- Make meaningful community contributions
-
----
-
-# 📈 Career Vision
-
-```text
-Computer Science Graduate
-           │
-           ▼
-Software Developer
-           │
-           ▼
-Full Stack Engineer
-           │
-           ▼
-Cloud Developer
-           │
-           ▼
-AI Engineer
-           │
-           ▼
-Senior Software Engineer
-           │
-           ▼
-Software Architect
-```
-
 
 # 🤝 Collaboration Interests
 
@@ -1012,19 +373,7 @@ I'm interested in collaborating on:
 - Educational Projects
 - REST API Development
 
----
 
-# ✨ Beyond Coding
-
-Outside of coding, I enjoy:
-
-- Exploring new technologies
-- Learning through hands-on projects
-- Following AI advancements
-- Improving problem-solving skills
-- Sharing knowledge with the developer community
-
----
 
 <div align="center">
 
@@ -1071,56 +420,7 @@ As you build your portfolio, try to keep these repositories pinned:
 
 ---
 
-# 🚀 Repository Ideas
 
-Here are projects that will strengthen your GitHub profile:
-
-### Beginner
-- Calculator
-- Weather App
-- Notes App
-- Expense Tracker
-- Todo App
-
-### Intermediate
-- Authentication System
-- Chat Application
-- URL Shortener
-- Blog Platform
-- Movie Recommendation App
-
-### Advanced
-- E-Commerce Platform
-- Learning Management System
-- Hospital Management System
-- Inventory Management System
-- Employee Management System
-
-### AI Projects
-- AI Chat Assistant
-- Resume Analyzer
-- PDF Chatbot
-- AI Code Reviewer
-- AI Interview Assistant
-- Image Caption Generator
-- Voice Assistant
-- Document Summarizer
-
----
-
-# 📜 GitHub Profile Checklist
-
-- ✅ Professional README
-- ⬜ Portfolio Website
-- ⬜ Resume Repository
-- ⬜ 10+ Quality Projects
-- ⬜ 300+ GitHub Contributions
-- ⬜ Open Source Contributions
-- ⬜ Technical Blog
-- ⬜ Azure Certification
-- ⬜ Strong DSA Repository
-
----
 
 # 📈 2026 Milestones
 
@@ -1133,18 +433,6 @@ Here are projects that will strengthen your GitHub profile:
 - 🎯 Strengthen Backend Development Skills
 - 🎯 Grow as a Software Engineer
 
----
-
-# 🏆 Developer Values
-
-- Curiosity over Comfort
-- Consistency over Perfection
-- Learning over Knowing
-- Simplicity over Complexity
-- Collaboration over Competition
-- Quality over Quantity
-
----
 
 # 📂 Repository Structure
 
