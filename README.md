@@ -311,49 +311,6 @@ src="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github
 ---
 
 
-# 🚀 Featured Projects
-
-> *"Building software that is scalable, maintainable, and solves real-world problems."*
-
----
-
-
-
-# 🎯 Long-Term Vision
-
-My goal is to become an engineer capable of designing, developing, deploying, and maintaining enterprise-scale applications while leveraging Artificial Intelligence and Cloud technologies to solve real-world challenges.
-
-I aim to contribute to impactful software products, continuously expand my technical expertise, and grow into roles involving software architecture, AI engineering, and distributed systems.
-
----
-
-<div align="center">
-
-## ⭐ "Build projects that solve problems, not just projects that fill repositories."
-
-</div>
-
----
-
-# 🛣️ Engineering Roadmap
-
-> *"Success in software engineering is the result of consistent learning, practical experience, and continuous improvement."*
-
----
-
-
-# 🤝 Collaboration Interests
-
-I'm interested in collaborating on:
-
-- Open Source Projects
-- MERN Stack Applications
-- Java Projects
-- AI & ML Experiments
-- Developer Tools
-- Educational Projects
-- REST API Development
-
 
 
 <div align="center">
@@ -411,10 +368,3 @@ I'm interested in collaborating on:
 
 # 🙌 Thanks for Visiting
 
-<div align="center">
-
-### If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
