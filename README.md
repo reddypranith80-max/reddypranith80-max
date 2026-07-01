@@ -30,9 +30,7 @@
 
 # 💫 About Me
 
-I'm **Pranith Reddy Gurram**, a passionate **Computer Science Engineer** with a strong interest in software engineering, scalable backend systems, artificial intelligence, cloud computing, and modern web technologies.
-
-I enjoy solving complex engineering problems, designing scalable applications, and continuously improving my knowledge through hands-on development and continuous learning.
+Myself **Pranith Reddy Gurram** currently enjoy solving complex engineering problems, designing scalable applications, and continuously improving my knowledge through hands-on development and continuous learning.
 
 My current focus is on becoming an industry-ready Software Engineer by mastering Full Stack Development, Data Structures & Algorithms, System Design, Artificial Intelligence, and Cloud Technologies.
 
@@ -284,23 +282,6 @@ src="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github
 
 
 
-# 📌 Pinned Repository Categories
-
-<div align="center">
-
-| Repository | Description |
-|------------|-------------|
-| 🚀 Full Stack Projects | MERN Applications |
-| 🤖 AI Projects | LLM & GenAI Projects |
-| 📚 DSA Repository | Java DSA Solutions |
-| ☁ Azure | Cloud Learning Projects |
-| ⚙ Backend | REST APIs & Node.js |
-| 🌐 Frontend | React Applications |
-
-</div>
-
----
-
 # 🌟 GitHub Highlights
 
 <div align="center">
@@ -405,27 +386,13 @@ I'm interested in collaborating on:
 
 ---
 
-# 📌 Recommended Pinned Repositories
-
-As you build your portfolio, try to keep these repositories pinned:
-
-| Repository | Purpose |
-|------------|---------|
-| 💻 Java-DSA | Data Structures & Algorithms in Java |
-| 🌐 MERN-Ecommerce | Full Stack E-Commerce Project |
-| 🤖 AI-Projects | AI, ML & LLM Experiments |
-| ☁️ Azure-Labs | Azure Practice & Deployments |
-| 📚 SQL-Practice | SQL Queries & Database Design |
-| 🎨 Portfolio | Personal Portfolio Website |
-
----
 
 
 
 # 📈 2026 Milestones
 
 - 🎯 Solve 500+ DSA Problems
-- 🎯 Build 15+ End-to-End Projects
+- 🎯 Build 5+ End-to-End Projects
 - 🎯 Earn Azure AZ-900 Certification
 - 🎯 Learn System Design Fundamentals
 - 🎯 Build AI-powered Applications
@@ -434,19 +401,6 @@ As you build your portfolio, try to keep these repositories pinned:
 - 🎯 Grow as a Software Engineer
 
 
-# 📂 Repository Structure
-
-```text
-📦 GitHub
- ├── 💻 Java Projects
- ├── 🌐 MERN Stack Projects
- ├── 🤖 AI Projects
- ├── ☁️ Azure Projects
- ├── 📚 DSA Repository
- ├── 🗄️ SQL Practice
- ├── 📖 Notes & Documentation
- └── 🎨 Portfolio Website
-```
 
 
 # 💬 Favorite Quote
