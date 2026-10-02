@@ -49,18 +49,6 @@ I believe that consistent learning and building real-world projects are the fast
 
 My mission is to become a highly skilled Software Engineer capable of building scalable, secure, and intelligent applications that solve real-world problems.
 
-I am continuously expanding my expertise in:
-
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- System Design
-- Backend Engineering
-- Database Design
-- Distributed Systems
-- Software Architecture
-
 ---
 
 
@@ -219,17 +207,6 @@ I am continuously expanding my expertise in:
 ---
 
 
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reddypranith80-max&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -239,28 +216,6 @@ I am continuously expanding my expertise in:
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github-contribution-grid-snake.svg">
-
-<img
-alt="github contribution snake"
-src="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
 
 ---
 
@@ -342,20 +297,6 @@ src="https://github.com/reddypranith80-max/reddypranith80-max/blob/output/github
 </div>
 
 ---
-
-
-
-
-# 📈 2026 Milestones
-
-- 🎯 Solve 500+ DSA Problems
-- 🎯 Build 5+ End-to-End Projects
-- 🎯 Earn Azure AZ-900 Certification
-- 🎯 Learn System Design Fundamentals
-- 🎯 Build AI-powered Applications
-- 🎯 Contribute to Open Source
-- 🎯 Strengthen Backend Development Skills
-- 🎯 Grow as a Software Engineer
 
 
 
